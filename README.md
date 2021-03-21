@@ -1,6 +1,7 @@
-# Scroll Wheel Dolley Camera
+# Scroll Wheel Dolley Camera System.
 This is Unity project.
 This sample is Dolly camera control for webGL and more.
+
 The camera control by use mouse scroll(center wheel).
 Programable look at target changing by dolly rale positions.
 And playable audio triger.
